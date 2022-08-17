@@ -40,7 +40,6 @@
 /* endable this to add smooth scrolling */
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 body {
